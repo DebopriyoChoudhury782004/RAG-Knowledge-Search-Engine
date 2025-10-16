@@ -170,7 +170,7 @@ streamlit run streamlit_app.py
 ## 👨‍💻 Author
 
 **Debopriyo Choudhury**  
-📧 [debopriyochoudhury782004@gmail.com](mailto:debopriyochoudhury782004@gmail.com)  
+📧 [sridebopriyo@gmail.com](mailto:debopriyochoudhury782004@gmail.com)  
 🔗 [GitHub Profile](https://github.com/DebopriyoChoudhury782004)
 
 ---
