@@ -52,6 +52,7 @@ Documents → Embedding Generation → Vector Store (FAISS)
 
 ```
 RAG-Knowledge-Search-Engine/
+├──.env                   # Environment variables
 ├── app.py                # FastAPI backend entry point
 ├── ingest.py             # Document ingestion and embedding creation
 ├── qa_chain.py           # RAG pipeline and LLM query synthesis
